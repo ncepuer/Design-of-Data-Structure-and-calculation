@@ -1,0 +1,6 @@
+C:/Users/mac/Desktop/txt/
+C:/Users/mac/Desktop/txt/data.txt
+C:/Users/mac/Desktop/txt/datum/user1.txt
+C:/Users/mac/Desktop/txt/user1.txt
+data.txt
+datum/user1.txt
